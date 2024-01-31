@@ -14,4 +14,4 @@ I think this is a really interesting take about how AI is playing a role in the 
 
 ## Eric's Note
 
-Wow Alice! Thank you so much for the interesting article and the insight. Things are looking bleak for us aspiring software engineers amidst massive tech layoffs and emergent fears of AI taking over jobs. Hopefully things get better in the future!
+Wow Alice! Thank you so much for the interesting article and the insight. Things are looking bleak for us aspiring software engineers amidst massive tech layoffs and emergent fears of AI taking over jobs. Hopefully things get better in the future.
