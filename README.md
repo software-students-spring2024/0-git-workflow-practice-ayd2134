@@ -11,3 +11,7 @@ I found this article interesting because the author shares his own experience as
 ## Justin's Note
 
 I think this is a really interesting take about how AI is playing a role in the field of computer science. I think it will be cool to see how AI fits in with the workplace, whether it be replacing some entry level software engineers, or as a tool for all software engineers to be more productive. Overall, very cool article!
+
+## Eric's Note
+
+Wow Alice! Thank you so much for the interesting article and the insight. Things are looking bleak for us aspiring software engineers amidst massive tech layoffs and emergent fears of AI taking over jobs. Hopefully things get better in the future!
